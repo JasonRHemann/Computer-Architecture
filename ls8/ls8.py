@@ -7,6 +7,6 @@ from cpu import *
 
 cpu = CPU()
 
-cpu.load("examples/stack.ls8")
+cpu.load()
 
-cpu.run()
+cpu.run()   
